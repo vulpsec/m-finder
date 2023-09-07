@@ -5,7 +5,7 @@ Bir sitenin admin panelini bulmanıza yardımcı oluan bir tool
 ## İndirme 
 
 ```bash
-git clone 'https://github.com/morbius-os/m-finder
+git clone https://github.com/morbius-os/m-finder
 
 cd m-finder
 
