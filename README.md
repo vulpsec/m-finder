@@ -9,6 +9,8 @@ git clone https://github.com/morbius-os/m-finder
 
 cd m-finder
 
+cd m-finder
+
 python3 m-finder-v4.py 
 ```
 
